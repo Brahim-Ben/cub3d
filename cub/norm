@@ -1,0 +1,94 @@
+parse_map.c: Error!
+Error: EMPTY_LINE_FUNCTION  (line:  48, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line:  48, col:   1):	Space on empty line
+Error: TOO_FEW_TAB          (line:  51, col:   1):	Missing tabs for indent level
+Error: TOO_FEW_TAB          (line:  52, col:   1):	Missing tabs for indent level
+Error: TOO_FEW_TAB          (line:  53, col:   1):	Missing tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line:  54, col:   1):	Empty line in function
+Error: TOO_FEW_TAB          (line:  55, col:   1):	Missing tabs for indent level
+Error: TAB_INSTEAD_SPC      (line:  55, col:   4):	Found tab when expecting space
+Error: TOO_FEW_TAB          (line:  56, col:   1):	Missing tabs for indent level
+Error: VAR_DECL_START_FUNC  (line:  58, col:   1):	Variable declaration not at start of function
+Error: CONSECUTIVE_NEWLINES (line:  61, col:   1):	Consecutive newlines
+Error: EMPTY_LINE_FUNCTION  (line:  61, col:   1):	Empty line in function
+Error: TOO_FEW_TAB          (line:  69, col:  21):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line:  69, col:  21):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line:  69, col:  32):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line:  69, col:  32):	Too many instructions on a single line
+Error: LINE_TOO_LONG        (line:  73, col:  85):	line too long
+Error: LINE_TOO_LONG        (line:  73, col: 115):	line too long
+Error: LINE_TOO_LONG        (line:  73, col: 115):	line too long
+Error: LINE_TOO_LONG        (line:  75, col:  83):	line too long
+Error: SPC_AFTER_OPERATOR   (line:  76, col:  66):	missing space after operator
+Error: LINE_TOO_LONG        (line:  76, col:  82):	line too long
+Error: LINE_TOO_LONG        (line:  76, col: 117):	line too long
+Error: LINE_TOO_LONG        (line:  76, col: 117):	line too long
+Error: LINE_TOO_LONG        (line:  82, col:  82):	line too long
+Error: CONSECUTIVE_SPC      (line:  82, col: 103):	Two or more consecutives spaces
+Error: LINE_TOO_LONG        (line:  82, col: 110):	line too long
+Error: LINE_TOO_LONG        (line:  82, col: 110):	line too long
+Error: LINE_TOO_LONG        (line:  84, col:  82):	line too long
+Error: LINE_TOO_LONG        (line:  85, col:  82):	line too long
+Error: LINE_TOO_LONG        (line:  85, col: 112):	line too long
+Error: LINE_TOO_LONG        (line:  85, col: 112):	line too long
+Error: LINE_TOO_LONG        (line:  91, col:  82):	line too long
+Error: LINE_TOO_LONG        (line:  91, col: 109):	line too long
+Error: LINE_TOO_LONG        (line:  91, col: 109):	line too long
+Error: LINE_TOO_LONG        (line:  93, col:  82):	line too long
+Error: LINE_TOO_LONG        (line:  94, col:  82):	line too long
+Error: LINE_TOO_LONG        (line:  94, col: 112):	line too long
+Error: LINE_TOO_LONG        (line:  94, col: 112):	line too long
+Error: LINE_TOO_LONG        (line: 100, col:  82):	line too long
+Error: LINE_TOO_LONG        (line: 100, col: 109):	line too long
+Error: LINE_TOO_LONG        (line: 100, col: 109):	line too long
+Error: LINE_TOO_LONG        (line: 102, col:  82):	line too long
+Error: LINE_TOO_LONG        (line: 103, col:  82):	line too long
+Error: LINE_TOO_LONG        (line: 103, col: 112):	line too long
+Error: LINE_TOO_LONG        (line: 103, col: 112):	line too long
+Error: LINE_TOO_LONG        (line: 109, col:  93):	line too long
+Error: LINE_TOO_LONG        (line: 109, col: 105):	line too long
+Error: LINE_TOO_LONG        (line: 109, col: 105):	line too long
+Error: LINE_TOO_LONG        (line: 115, col:  93):	line too long
+Error: LINE_TOO_LONG        (line: 115, col: 105):	line too long
+Error: LINE_TOO_LONG        (line: 115, col: 105):	line too long
+Error: TOO_MANY_LINES       (line: 120, col:   1):	Function has more than 25 lines
+Error: NO_SPC_BFR_OPR       (line: 130, col:  35):	extra space before operator
+Error: SPC_AFTER_OPERATOR   (line: 130, col:  35):	missing space after operator
+Error: LINE_TOO_LONG        (line: 130, col:  89):	line too long
+Error: LINE_TOO_LONG        (line: 135, col:  82):	line too long
+Error: CONSECUTIVE_SPC      (line: 144, col:   9):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line: 144, col:   9):	Found space when expecting tab
+Error: MIXED_SPACE_TAB      (line: 144, col:  12):	Mixed spaces and tabs
+Error: TOO_FEW_TAB          (line: 151, col:  62):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 151, col:  62):	Too many instructions on a single line
+Error: EMPTY_LINE_FUNCTION  (line: 155, col:   1):	Empty line in function
+Error: SPACE_AFTER_KW       (line: 160, col:  13):	Missing space after keyword
+Error: EMPTY_LINE_FUNCTION  (line: 170, col:   1):	Empty line in function
+Error: WRONG_SCOPE_COMMENT  (line: 171, col:   9):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line: 172, col:   9):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line: 173, col:   9):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line: 174, col:   9):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line: 175, col:   9):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line: 176, col:   9):	Comment is invalid in this scope
+Error: TOO_FEW_TAB          (line: 178, col:  35):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 178, col:  35):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line: 178, col:  47):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 178, col:  47):	Too many instructions on a single line
+Error: WRONG_SCOPE_COMMENT  (line: 183, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line: 184, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line: 185, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line: 186, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line: 187, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line: 188, col:   5):	Comment is invalid in this scope
+Error: LINE_TOO_LONG        (line: 190, col: 115):	line too long
+Error: LINE_TOO_LONG        (line: 190, col: 121):	line too long
+Error: TOO_FEW_TAB          (line: 190, col: 121):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 190, col: 121):	Too many instructions on a single line
+Error: LINE_TOO_LONG        (line: 190, col: 143):	line too long
+Error: TOO_FEW_TAB          (line: 190, col: 143):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 190, col: 143):	Too many instructions on a single line
+Error: VAR_DECL_START_FUNC  (line: 192, col:   1):	Variable declaration not at start of function
+Error: SPACE_REPLACE_TAB    (line: 192, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line: 192, col:   9):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 192, col:  13):	Declaration and assignation on a single line
+Error: TOO_MANY_LINES       (line: 196, col:   1):	Function has more than 25 lines
